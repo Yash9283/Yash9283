@@ -1,3 +1,4 @@
+![logo](https://github.com/Yash9283/Yash9283/blob/main/WhatsApp%20Image%202024-12-07%20at%209.25.17%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
