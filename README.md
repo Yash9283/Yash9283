@@ -25,7 +25,6 @@
 
 - 👨‍💻 Projects on [LinkedIn](https://www.linkedin.com/in/yash-sharma9283)
 - 📫 Reach me: **yashsharma9283@gmail.com**
-- 🎓 Computer Science and Engineering Student
 
 </td>
 <td width="38%" align="center">
