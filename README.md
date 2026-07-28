@@ -10,11 +10,28 @@
 
 <br/>
 
+<!-- Neon glowing About Me banner -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=90&section=header&text=About%20Me&fontSize=32&fontColor=b026ff&animation=twinkling&fontAlignY=55" />
+</div>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="coding animation"/>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=9D4EDD&background=000000&center=true&vCenter=true&multiline=true&width=630&height=140&lines=%F0%9F%92%BC+Full+Stack+Developer+%7C+Enterprise-Grade+Apps;%E2%9A%99%EF%B8%8F+Backend%3A+Java+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core%2FMVC%2FWebAPI;%F0%9F%8E%A8+Frontend%3A+React.js+%C2%B7+Angular+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JS;%F0%9F%8C%B1+Currently+learning%3A+C%2B%2B+%C2%B7+Java;%F0%9F%93%AB+yashsharma9283%40gmail.com" />
+
+- 👨‍💻 All of my projects are on [LinkedIn](https://www.linkedin.com/in/yash-sharma9283)
+- 📫 Reach me at **yashsharma9283@gmail.com**
+
+<br clear="right"/>
+<br/>
+
 <div align="center">
 
-### 🧑‍💻 About Me
+### 🛠️ Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=9D4EDD&background=000000&center=true&vCenter=true&multiline=true&width=650&height=140&lines=%F0%9F%92%BC+Full+Stack+Developer+%7C+Enterprise-Grade+Apps;%E2%9A%99%EF%B8%8F+Backend%3A+Java+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core%2FMVC%2FWebAPI;%F0%9F%8E%A8+Frontend%3A+React.js+%C2%B7+Angular+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JS;%E2%98%81%EF%B8%8F+Cloud%3A+Azure+%C2%B7+AWS+%7C+DevOps%3A+Docker+%C2%B7+GitLab" />
+<img src="https://skillicons.dev/icons?i=cpp,html,mongodb,mysql,python,java,cs,dotnet,react,angular,css,js,docker,azure,aws,git,gitlab,vscode&theme=dark&perline=9" />
 
 </div>
 
@@ -22,9 +39,12 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### 🤝 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,react,angular,html,css,js,docker,azure,aws,git,gitlab,vscode&theme=dark&perline=7" />
+<a href="https://linkedin.com/in/yash-sharma9283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6a00f4?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yashsharma9283@gmail.com"><img src="https://img.shields.io/badge/Email-6a00f4?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://fb.com/yashsharma9283" target="_blank"><img src="https://img.shields.io/badge/Facebook-6a00f4?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/yashsharma9283" target="_blank"><img src="https://img.shields.io/badge/Instagram-6a00f4?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 </div>
 
@@ -50,18 +70,6 @@
 ### 🐍 Contribution Graph
 
 <img src="https://raw.githubusercontent.com/yash9283/yash9283/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🤝 Connect With Me
-
-<a href="https://linkedin.com/in/yash9283"><img src="https://img.shields.io/badge/LinkedIn-6a00f4?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-6a00f4?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/yash9283"><img src="https://img.shields.io/badge/Twitter-6a00f4?style=flat-square&logo=twitter&logoColor=white" /></a>
 
 </div>
 
