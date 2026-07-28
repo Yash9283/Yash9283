@@ -1,87 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff41&height=250&section=header&text=Hey,%20I'm%20Your%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20React&descAlignY=55&descSize=18&descColor=e0e0e0" />
+<h1><code>$ whoami</code></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;.NET+%2F+Java+%2F+React+Specialist;Cloud+%26+DevOps+Enthusiast;Turning+Ideas+Into+Scalable+Apps" />
+<h3>Yash Sharma</h3>
+<p>Software Engineer · Backend & Full-Stack (.NET / Java)</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=yash9283&label=Profile+Views&color=00ff9c&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yash9283?label=Followers&style=for-the-badge&color=00ff9c" />
+<img src="https://komarev.com/ghpvc/?username=yash9283&label=Profile%20Views&color=1c7ed6&style=flat" alt="Profile views" />
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+### `$ cat about.txt`
 
-- 💼 **Full Stack Developer** specializing in enterprise-grade apps
-- ⚙️ Backend: **C# · .NET · ASP.NET · ASP.NET MVC · ASP.NET Web API · Java**
-- 🎨 Frontend: **React.js**
-- ☁️ Cloud & Tools: **Azure · Docker · SQL Server · Git**
-- 📫 Reach me: **your.email@example.com**
+- 🔭 Building backend systems with **.NET** and **Java**, with React on the front end
+- 🛠️ Comfortable across the full stack — from SQL Server to Docker to CI/CD
+- 📦 Ship and deploy using **Docker** and **GitLab**
+- 📫 Reach me via GitHub — [@yash9283](https://github.com/yash9283)
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+### `$ ls ./skills`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages & Frameworks**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+</td>
+<td valign="top" width="50%">
+
+**Data & Tooling**
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ git log --stats`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,mssql,docker,azure,git,github,vscode&theme=dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yash9283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9283&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<br/>
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash9283&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9283&layout=compact&theme=radical&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9283&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9283&theme=react-dark&hide_border=true" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9283&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
-<br/>
+---
 
-## 🐍 Contribution Snake
+### `$ cat contact.log`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yash9283/yash9283/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<a href="https://github.com/yash9283"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
-
-> This one **actually moves** — but needs a one-time GitHub Action setup (I'll give you the exact file below if you want it).
-
-<br/>
-
-## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yash9283&theme=radical&no-frame=true&row=1&column=7" />
-
+<sub>Built with ❤️ from a terminal, not a template.</sub>
 </div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/yash9283"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://twitter.com/yash9283"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:2c5364,100:0f2027&height=120&section=footer" />
