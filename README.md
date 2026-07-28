@@ -4,12 +4,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=300&color=FFFFFF&background=0D0015&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Hi%2C+I'm+Yash+Sharma+%F0%9F%91%8B" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=300&color=E6E6E6&background=0D0015&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Full+Stack+Developer+%7C+.NET+%E2%80%A2+Java+%E2%80%A2+React" />
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=yash9283&label=Profile+Views&color=6a00f4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/yash9283?label=Followers&style=for-the-badge&color=6a00f4" />
 
