@@ -72,17 +72,6 @@
 > This one **actually moves** — but needs a one-time GitHub Action setup (I'll give you the exact file below if you want it).
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yash9283&theme=radical&no-frame=true&row=1&column=7" />
-
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -93,6 +82,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:2c5364,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=120&section=footer" />
 
 
