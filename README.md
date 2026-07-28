@@ -98,7 +98,9 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/yash-sharma9283" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yash-sharma9283" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn"/>
+</a>
 <a href="mailto:yashsharma9283@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/yashsharma9283" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://fb.com/yashsharma9283" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" title="Facebook" /></a>&nbsp;&nbsp;&nbsp;
