@@ -82,4 +82,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f4c75,100:3282b8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:161b22&height=120&section=footer" />
