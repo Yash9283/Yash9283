@@ -16,7 +16,7 @@
 </div>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="220" alt="coding animation"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="coding animation"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=9D4EDD&background=000000&center=true&vCenter=true&multiline=true&width=630&height=140&lines=%F0%9F%92%BC+Full+Stack+Developer+%7C+Enterprise-Grade+Apps;%E2%9A%99%EF%B8%8F+Backend%3A+Java+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core%2FMVC%2FWebAPI;%F0%9F%8E%A8+Frontend%3A+React.js+%C2%B7+Angular+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JS;%F0%9F%8C%B1+Currently+learning%3A+C%2B%2B+%C2%B7+Java;%F0%9F%93%AB+yashsharma9283%40gmail.com" />
