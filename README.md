@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:6a00f4&height=220&section=header&text=Hi,%20I'm%20Yash%20Sharma&fontSize=36&fontColor=ffffff&animation=blink&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20React&descAlignY=53&descSize=15&descColor=e6e6e6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:6a00f4&height=180" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=1&pause=1500&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Hi%2C+I'm+Yash+Sharma+%F0%9F%91%8B" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=1500&color=E6E6E6&background=00000000&center=true&vCenter=true&repeat=true&width=550&height=30&lines=Full+Stack+Developer+%7C+.NET+%E2%80%A2+Java+%E2%80%A2+React" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=yash9283&label=Profile+Views&color=6a00f4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/yash9283?label=Followers&style=for-the-badge&color=6a00f4" />
@@ -11,15 +17,16 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=About%20Me&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&repeat=true&width=320&lines=%F0%9F%99%8B+About+Me" />
 </div>
 
 <table width="100%">
 <tr>
 <td width="62%" valign="middle">
 
-**Full Stack Developer** — Java · C# · .NET · ASP.NET
-**Frontend** — React · Angular · HTML · CSS · JS
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=800&color=FFFFFF&background=0D0015&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=140&lines=Full+Stack+Developer;Java+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET;React+%C2%B7+Angular+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JS;yashsharma9283%40gmail.com" />
+</div>
 
 - 👨‍💻 Projects on [LinkedIn](https://www.linkedin.com/in/yash-sharma9283)
 - 📫 Reach me: **yashsharma9283@gmail.com**
@@ -35,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=Tech%20Stack&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&repeat=true&width=320&lines=%F0%9F%9B%A0+Tech+Stack" />
 
 <br/><br/>
 
@@ -62,16 +69,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=GitHub%20Stats&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&repeat=true&width=320&lines=%F0%9F%93%8A+GitHub+Stats" />
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yash9283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=9d4edd&icon_color=9d4edd" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9283&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9d4edd" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yash9283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9283&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9283&theme=tokyonight&hide_border=true&background=00000000&ring=9D4EDD&fire=9D4EDD" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9283&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
@@ -79,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=Contribution%20Graph&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&repeat=true&width=320&lines=%F0%9F%93%88+Contribution+Graph" />
 
 <br/><br/>
 
@@ -91,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=Connect%20With%20Me&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=1200&color=9D4EDD&background=00000000&center=true&vCenter=true&repeat=true&width=320&lines=%F0%9F%94%97+Connect+With+Me" />
 
 <br/><br/>
 
