@@ -17,9 +17,13 @@
 ## 🧑‍💻 About Me
 
 - 💼 **Full Stack Developer** specializing in enterprise-grade applications
-- ⚙️ Backend: **Java · C# · .NET · ASP.NET Core · ASP.NET MVC · ASP.NET Web API**
-- 🎨 Frontend: **React.js**
-- ☁️ Database & Tools: **SQL Server · Docker · GitLab**
+- ⚙️ Languages: **Java · Python · C#**
+- 🌐 Backend: **.NET · ASP.NET · ASP.NET MVC · ASP.NET Web API**
+- 🎨 Frontend: **React.js · Angular · HTML · CSS · JavaScript**
+- 🗄️ Database: **SQL Server (SSMS)**
+- 🔌 APIs: **Postman API · RESTful API**
+- ☁️ Cloud: **Azure · AWS**
+- 🧰 Tools: **Docker · GitLab · Git · Visual Studio 2022 · VS Code**
 - 🚀 Currently building scalable, cloud-ready web applications
 - 📫 Reach me: **your.email@example.com**
 
@@ -28,7 +32,9 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,react,mssql,docker,gitlab,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,dotnet,react,angular,mssql,docker,gitlab,git,visualstudio,vscode,html,css,js,azure,aws,postman&theme=dark&perline=9" />
+
+*SSMS &nbsp;•&nbsp; ASP.NET &nbsp;•&nbsp; ASP.NET MVC &nbsp;•&nbsp; ASP.NET Web API &nbsp;•&nbsp; RESTful API*
 </div>
 
 <br/>
