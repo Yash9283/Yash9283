@@ -1,9 +1,8 @@
 <div align="center">
-<h3><code>$ whoami --verbose</code></h3>
 <table>
 <tr>
 <td valign="top"><img src="./portrait.svg" width="360" /></td>
-<td valign="top"><img src="./sysinfo.svg" width="560" /></td>
+<td valign="top"><img src="./sysinfo.svg" width="560" height="400" /></td>
 </tr>
 </table>
 
