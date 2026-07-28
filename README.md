@@ -46,18 +46,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash9283&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9283&layout=compact&theme=radical&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9283&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash9283&theme=react-dark&hide_border=true" width="95%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yash9283&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9283&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9283&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+
+</div>
+
 
 <br/>
 
