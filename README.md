@@ -51,7 +51,7 @@
 <img src="https://skillicons.dev/icons?i=java" height="48" title="Java" />
 <img src="https://skillicons.dev/icons?i=cs" height="48" title="C#" />
 <img src="https://skillicons.dev/icons?i=dotnet" height="48" title=".NET / ASP.NET" />
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="42" title="SQL Server" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="42" alt="SQL Server" title="SQL Server" />
 <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" />
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="42" title="Postman" />
 <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="42" title="Swagger" />
