@@ -1,0 +1,697 @@
+<svg viewBox="0 0 923 1048" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+  
+    <clipPath id="clip0">
+      <rect x="20" y="20" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.000s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="32" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip0)">                                                                                            </text>
+    <clipPath id="clip1">
+      <rect x="20" y="36" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.045s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="48" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip1)">                                                                                            </text>
+    <clipPath id="clip2">
+      <rect x="20" y="52" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.090s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="64" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip2)">                                                                                            </text>
+    <clipPath id="clip3">
+      <rect x="20" y="68" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.135s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="80" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip3)">                                                                                            </text>
+    <clipPath id="clip4">
+      <rect x="20" y="84" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.180s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="96" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip4)">                                                                                            </text>
+    <clipPath id="clip5">
+      <rect x="20" y="100" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.225s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="112" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip5)">                                                                                            </text>
+    <clipPath id="clip6">
+      <rect x="20" y="116" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.270s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="128" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip6)">                                                                                            </text>
+    <clipPath id="clip7">
+      <rect x="20" y="132" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.315s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="144" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip7)">                                           ...,::,.'                                        </text>
+    <clipPath id="clip8">
+      <rect x="20" y="148" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.360s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="160" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip8)">                                        '.::;+++~;:,..                                      </text>
+    <clipPath id="clip9">
+      <rect x="20" y="164" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.405s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="176" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip9)">                                    ''.,:;;;+++~;;;:,,,,.                                   </text>
+    <clipPath id="clip10">
+      <rect x="20" y="180" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.450s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="192" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip10)">                                  ',::~~~;~+*xx**+~~;:;~+~:.'                               </text>
+    <clipPath id="clip11">
+      <rect x="20" y="196" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.495s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="208" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip11)">                               '::~~~+++++xxXXxx******++~;++;:'                             </text>
+    <clipPath id="clip12">
+      <rect x="20" y="212" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.540s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="224" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip12)">                               ;~+*****x*XXXXXXXxxx**+++;;~+~+~.                            </text>
+    <clipPath id="clip13">
+      <rect x="20" y="228" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.585s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="240" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip13)">                             .~+*xxxxxXxXXOOXXXXxxx**xx*+~~*+~~;:.                          </text>
+    <clipPath id="clip14">
+      <rect x="20" y="244" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.630s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="256" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip14)">                           .:+*xxXXXXXXXOOOOOXXXXXXXXXxx***+~;~+*+~:                        </text>
+    <clipPath id="clip15">
+      <rect x="20" y="260" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.675s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="272" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip15)">                          ,~++xXXXOOOXXXXxxxxXXXXXXXxXXXxxxx**++***+~'                      </text>
+    <clipPath id="clip16">
+      <rect x="20" y="276" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.720s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="288" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip16)">                         ,~+*xXXXXx*+++~;;;:;~+**xxxxxXXXx*+~~*xxxx*+;                      </text>
+    <clipPath id="clip17">
+      <rect x="20" y="292" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.765s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="304" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip17)">                         ',~*XOXx+;;:::.''...,,;;~~+++**xXXx**xxxx**++'                     </text>
+    <clipPath id="clip18">
+      <rect x="20" y="308" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.810s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="320" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip18)">                           ;*XX*~;:,,,.     ''.,,:;;;;;~+*xXXXXXXx*+;;                      </text>
+    <clipPath id="clip19">
+      <rect x="20" y="324" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.855s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="336" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip19)">                           ~*x+;::,...'' '      ''.,,,:::;~*xXXXXxx++:                      </text>
+    <clipPath id="clip20">
+      <rect x="20" y="340" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.900s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="352" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip20)">                          '+x+;:,,,..''              ''..,:;~+*xxx*~+~'                     </text>
+    <clipPath id="clip21">
+      <rect x="20" y="356" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.945s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="368" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip21)">                          '+x+,,,,,..''                 '.,::::~xXx**~                      </text>
+    <clipPath id="clip22">
+      <rect x="20" y="372" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="0.990s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="384" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip22)">                           ;X;'.....,,,.     ...        ''',,,,:+XXx~.                      </text>
+    <clipPath id="clip23">
+      <rect x="20" y="388" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.035s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="400" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip23)">                           .x.',;+++++~;;,,,,:::,..''..,..'''...;xx~                        </text>
+    <clipPath id="clip24">
+      <rect x="20" y="404" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.080s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="416" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip24)">                          ..,,;+~+~+*xXxx*xx+;~~~+***xx*++~~:..',**'                        </text>
+    <clipPath id="clip25">
+      <rect x="20" y="420" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.125s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="432" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip25)">                          ::..:~~++**xxx***+;:::~+*****+++~~+;,.:*~                         </text>
+    <clipPath id="clip26">
+      <rect x="20" y="436" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.170s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="448" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip26)">                           ,..~***+xXOXXXx~;,' ,:+xxxxXXX**+~:,::;'                         </text>
+    <clipPath id="clip27">
+      <rect x="20" y="452" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.215s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="464" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip27)">                           .',~++++*xxxx*;;:   ';~+***XX*;+**;.,;~.                         </text>
+    <clipPath id="clip28">
+      <rect x="20" y="468" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.260s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="480" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip28)">                           '.'.,:;;;;;:,.,:     :,,:~+**++~::.'.;++                         </text>
+    <clipPath id="clip29">
+      <rect x="20" y="484" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.305s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="496" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip29)">                            .''''''''   ',       ,'  '.,,,.'   ':~~                         </text>
+    <clipPath id="clip30">
+      <rect x="20" y="500" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.350s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="512" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip30)">                           ',,...''' '',,        .,'          '.;,'                         </text>
+    <clipPath id="clip31">
+      <rect x="20" y="516" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.395s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="528" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip31)">                           ,,,,:,,,,...,'''       ..' '''   '.,,:.                          </text>
+    <clipPath id="clip32">
+      <rect x="20" y="532" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.440s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="544" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip32)">                           ':::,:,.'    :*+:,,,~*;..''....,..:,:,.                          </text>
+    <clipPath id="clip33">
+      <rect x="20" y="548" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.485s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="560" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip33)">                            ;:,,,.'     ,**+*xXOx,   '.,.,,,,::;,'                          </text>
+    <clipPath id="clip34">
+      <rect x="20" y="564" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.530s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="576" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip34)">                            ~~::,'''..:~XXXXOXxXX+.    .,,,::;;'                            </text>
+    <clipPath id="clip35">
+      <rect x="20" y="580" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.575s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="592" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip35)">                            ~~;,.';xXxxx*++~;;~~+xx+~:' .::;;+.                             </text>
+    <clipPath id="clip36">
+      <rect x="20" y="596" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.620s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="608" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip36)">                            ;+;;,.+xx*+~;;;~~+++**xxOX~'',;~~+                              </text>
+    <clipPath id="clip37">
+      <rect x="20" y="612" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.665s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="624" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip37)">                            '+*~:,:;:,.'       ',;~+++,'.;~~*,                              </text>
+    <clipPath id="clip38">
+      <rect x="20" y="628" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.710s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="640" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip38)">                             '*+:::;,,,:;~~~~:::,'',::,,:~**,                               </text>
+    <clipPath id="clip39">
+      <rect x="20" y="644" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.755s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="656" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip39)">                            .;*x+;;:,,,,:~***++;:,,,:::;+x+'                                </text>
+    <clipPath id="clip40">
+      <rect x="20" y="660" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.800s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="672" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip40)">                           ;*XX*xx+,.'             ',+*xx~+x;'                              </text>
+    <clipPath id="clip41">
+      <rect x="20" y="676" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.845s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="688" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip41)">                         '~*xXX,;xX*+~:,.'     ' .,;*XXX+,xOx+,                             </text>
+    <clipPath id="clip42">
+      <rect x="20" y="692" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.890s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="704" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip42)">                      ,;;;+xxXx,.,+XXxx*+~:::~+++*xOOX*;,.xO**+,                            </text>
+    <clipPath id="clip43">
+      <rect x="20" y="708" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.935s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="720" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip43)">               '..'.;*x+;+*xxXx,''':*XXOXXXXXXXXOOXx*;:...:Xx*+~,,'                         </text>
+    <clipPath id="clip44">
+      <rect x="20" y="724" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="1.980s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="736" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip44)">          '.,,:;+*+xXx+;;~~~*XX;'''',;+xXOOOOOOOXx+;:,,..' +x*+~;+;;,'                      </text>
+    <clipPath id="clip45">
+      <rect x="20" y="740" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.025s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="752" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip45)">,;;,:;~~;;;~~~~++**xx*+;~~~~~+x*,.''..,:~+****++~;:,,,,.' '+*++~;~*;~~;:,.'                 </text>
+    <clipPath id="clip46">
+      <rect x="20" y="756" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.070s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="768" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip46)">*+++++++~++****+**xxxx++xXXOXXxx~,....,,;;;;;;;;;::,,,.   ,x*+~~;~x~;+++**+;:,.'            </text>
+    <clipPath id="clip47">
+      <rect x="20" y="772" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.115s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="784" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip47)">++++++~++*xx**++xx****xXOOOOO#x+x~,,..,::::::;;::::::.   '+*+~~;;+x~;~+++*+++++~~~;:,.'     </text>
+    <clipPath id="clip48">
+      <rect x="20" y="788" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.160s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="800" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip48)">***++++*xxx***+*xx*++*XXXxxxxOX*xX*:.'''....,,,,..,,'   ,+*xXXxx+**~~;+++***+++++++++++~:.' </text>
+    <clipPath id="clip49">
+      <rect x="20" y="804" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.205s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="816" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip49)">**+++*xxXx***++*x**++*xx+++~~*OX**xx+,'    '.'''..    ';+*OOOOOOX*~~~;~+******++++~~++++~;::</text>
+    <clipPath id="clip50">
+      <rect x="20" y="820" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.250s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="832" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip50)">+++*xXXx*****+*xx*++++++++~~~+XXXx++**;.'''  ..''  ',~*xXOOXXXXx+~~++~;++**x**+++*+++++*+~~;</text>
+    <clipPath id="clip51">
+      <rect x="20" y="836" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.295s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="848" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip51)">*xXXxx*******+*x**+++++++~~~~~*xXOXx++*+;,.  '  .;+*xXXXXx**xx*~~~+~++~~+******+++**+**x*~~;</text>
+    <clipPath id="clip52">
+      <rect x="20" y="852" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.340s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="864" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip52)">XXXx*********++***++++**+~~+~~~+xXOOXx***;:,' '~*++*xXOX*+***+~~+++~++~~~*xx*****++***xx*+~;</text>
+    <clipPath id="clip53">
+      <rect x="20" y="868" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.385s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="880" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip53)">Xx**********+++**+***++++~+++~~~+*xOOXXx*+~,',+**xXOXXX**x**+~+++~~++++~~+x****xx*+***xXx+~~</text>
+    <clipPath id="clip54">
+      <rect x="20" y="884" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.430s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="896" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip54)">****+*******++*******++++~+++++++~+*XXXXXx+::*xXXOXx**+***+~++*++~~++++++~*x****xxx***xxx++~</text>
+    <clipPath id="clip55">
+      <rect x="20" y="900" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.475s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="912" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip55)">**x**+****+*++*****+*++++~++++++++++*xXXXXX*xxxx*****+++~~~+***++++++++++++******XXxxxx**++~</text>
+    <clipPath id="clip56">
+      <rect x="20" y="916" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.520s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="928" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip56)">*x********+++********++++++++*++++++++**xxXX**+++++*xx*++~++**+++++++++++++~+*++**xXxxxx*++~</text>
+    <clipPath id="clip57">
+      <rect x="20" y="932" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.565s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="944" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip57)">*xx******+++*********++++++++**+++++++*++xXX***++*++*xx++++***+++++++++++++++++++*xxxxxx*+++</text>
+    <clipPath id="clip58">
+      <rect x="20" y="948" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.610s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="960" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip58)">*xx****++++*********++++++++**++++++++*++*+xx*+~+++++***+++***++*++++++++++*+~++++***xxx*+++</text>
+    <clipPath id="clip59">
+      <rect x="20" y="964" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.655s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="976" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip59)">xxx***+++++********+++++++++***+++++++++**+*x*+;~++******+++**++*****++++++***+~+++**xxx*+++</text>
+    <clipPath id="clip60">
+      <rect x="20" y="980" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.700s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="992" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip60)">xxxx**++++*******++++++++++++***+*++~~++*+++x+*~~+++**+*x*++****++**xxx****++*x*+++***xx*++*</text>
+    <clipPath id="clip61">
+      <rect x="20" y="996" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.745s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="1008" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip61)">*xxx**+++*************++++++******++~~++*+~+*+*x*+~++**+**+++***++++**xxx**++**x*+++++*xx*++</text>
+    <clipPath id="clip62">
+      <rect x="20" y="1012" width="0" height="16">
+        <animate attributeName="width" from="0" to="883.1999999999999"
+                 begin="2.790s" dur="0.5s"
+                 fill="freeze" calcMode="spline"
+                 keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <text x="20" y="1024" font-family="Consolas, 'Courier New', monospace"
+          font-size="13.6" xml:space="preserve"
+          fill="#7aa2f7" clip-path="url(#clip62)">xxxx*++++***++********++++++*******+~+***+++x**x*+++++******++**+++*****xx*****xxx*++++*xx++</text>
+</svg>

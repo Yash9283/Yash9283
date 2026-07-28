@@ -1,0 +1,40 @@
+<svg viewBox="0 0 620 290" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#232937" stroke-width="1.5"/>
+  <rect x="0" y="0" width="100%" height="46" rx="10" fill="#161b22"/>
+  <rect x="0" y="36" width="100%" height="10" fill="#161b22"/>
+  <circle cx="24" cy="23.0" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="23.0" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="23.0" r="6" fill="#27c93f"/>
+  <text x="310.0" y="28.0" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8b93a7">sysinfo.sh</text>
+  
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.35s" fill="freeze"/>
+      <text x="24" y="76" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#7aa2f7">role</text>
+      <text x="119" y="76" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#8b93a7">:</text>
+      <text x="136" y="76" font-family="Consolas, 'Courier New', monospace" font-size="14.5" fill="#e6edf3">Software Engineer</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.35s" fill="freeze"/>
+      <text x="24" y="120" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#7aa2f7">focus</text>
+      <text x="119" y="120" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#8b93a7">:</text>
+      <text x="136" y="120" font-family="Consolas, 'Courier New', monospace" font-size="14.5" fill="#e6edf3">Full Stack Development</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.35s" fill="freeze"/>
+      <text x="24" y="164" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#7aa2f7">stack</text>
+      <text x="119" y="164" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#8b93a7">:</text>
+      <text x="136" y="164" font-family="Consolas, 'Courier New', monospace" font-size="14.5" fill="#e6edf3">Java · C# · .NET · ASP.NET Core/MVC/Web API · React.js</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.35s" fill="freeze"/>
+      <text x="24" y="208" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#7aa2f7">data</text>
+      <text x="119" y="208" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#8b93a7">:</text>
+      <text x="136" y="208" font-family="Consolas, 'Courier New', monospace" font-size="14.5" fill="#e6edf3">SQL Server</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.35s" fill="freeze"/>
+      <text x="24" y="252" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#7aa2f7">tools</text>
+      <text x="119" y="252" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#8b93a7">:</text>
+      <text x="136" y="252" font-family="Consolas, 'Courier New', monospace" font-size="14.5" fill="#e6edf3">Docker · GitLab</text>
+    </g>
+</svg>
