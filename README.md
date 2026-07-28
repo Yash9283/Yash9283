@@ -5,8 +5,6 @@
 <td valign="top"><img src="./sysinfo.svg" width="560" height="400" /></td>
 </tr>
 </table>
-
-<br>
 <div align="center">
 
 <div align="center">
