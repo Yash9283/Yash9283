@@ -11,16 +11,15 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=600&color=9D4EDD&background=00000000&center=true&vCenter=true&width=300&lines=About+Me" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=About%20Me&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
 </div>
 
 <table width="100%">
 <tr>
 <td width="62%" valign="middle">
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=800&color=FFFFFF&background=0D0015&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=140&lines=Full+Stack+Developer;Java+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+ASP.NET;React+%C2%B7+Angular+%C2%B7+HTML+%C2%B7+CSS+%C2%B7+JS;yashsharma9283%40gmail.com" />
-</div>
+**Full Stack Developer** — Java · C# · .NET · ASP.NET
+**Frontend** — React · Angular · HTML · CSS · JS
 
 - 👨‍💻 Projects on [LinkedIn](https://www.linkedin.com/in/yash-sharma9283)
 - 📫 Reach me: **yashsharma9283@gmail.com**
@@ -36,24 +35,24 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=600&color=9D4EDD&background=00000000&center=true&vCenter=true&width=300&lines=Tech+Stack" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=Tech%20Stack&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=java" height="48" title="Java" />
 <img src="https://skillicons.dev/icons?i=cs" height="48" title="C#" />
 <img src="https://skillicons.dev/icons?i=dotnet" height="48" title=".NET / ASP.NET" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="42" title="Postman" />
-<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="42" title="Swagger" />
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="42" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=mssql" height="48" title="Microsoft SQL Server" />
 <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=postman" height="48" title="Postman" />
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="42" title="Swagger" />
 <img src="https://skillicons.dev/icons?i=react" height="48" title="React" />
 <img src="https://skillicons.dev/icons?i=angular" height="48" title="Angular" />
-<img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker" />
-<img src="https://skillicons.dev/icons?i=gitlab" height="48" title="GitLab" />
 <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML" />
 <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS" />
 <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker" />
+<img src="https://skillicons.dev/icons?i=gitlab" height="48" title="GitLab" />
 <img src="https://skillicons.dev/icons?i=azure" height="48" title="Azure" />
 <img src="https://skillicons.dev/icons?i=aws" height="48" title="AWS" />
 
@@ -63,23 +62,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=600&color=9D4EDD&background=00000000&center=true&vCenter=true&width=300&lines=Connect+With+Me" />
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/yash-sharma9283" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
-<a href="mailto:yashsharma9283@gmail.com"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
-<a href="https://instagram.com/yashsharma9283" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" /></a>
-<a href="https://fb.com/yashsharma9283" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" /></a>
-<a href="https://x.com/yashsharma9283" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=600&color=9D4EDD&background=00000000&center=true&vCenter=true&width=300&lines=GitHub+Stats" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=GitHub%20Stats&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
 
 <br/><br/>
 
@@ -96,11 +79,27 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=600&color=9D4EDD&background=00000000&center=true&vCenter=true&width=300&lines=Contribution+Graph" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=Contribution%20Graph&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
 
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/yash9283/yash9283/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0015,50:1a0033,100:0d0015&height=42&section=header&text=Connect%20With%20Me&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blink" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/yash-sharma9283" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" title="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:yashsharma9283@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" title="Gmail" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/yashsharma9283" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" title="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://fb.com/yashsharma9283" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" title="Facebook" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/yashsharma9283" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" height="40" title="X" /></a>
 
 </div>
 
