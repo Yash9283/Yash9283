@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash9283/yash9283/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash9283/yash9283/main/light.svg">
+  <img alt="Yash Sharma" src="https://raw.githubusercontent.com/yash9283/yash9283/main/light.svg">
+</picture>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:6a00f4&height=180&text=Hi,%20I'm%20Yash%20Sharma&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20.NET%20%E2%80%A2%20Java%20%E2%80%A2%20React&descAlignY=62&descSize=16&animation=twinkling" width="100%" />
